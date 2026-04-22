@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sara 👋
 
-<!--
-**sumaiya-sara/sumaiya-sara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Student (CUNY - QCC)
+🔐 Aspiring Security Analyst
+📚 Preparing for CompTIA Security+
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+* Networking (TCP/IP, DNS, HTTP)
+* Wireshark (Packet Analysis)
+* Linux (Kali, Ubuntu)
+* Java (OOP Basics)
+* Python (Beginner)
+
+---
+
+## 🚀 Current Focus
+
+* Building hands-on cybersecurity projects
+* Learning network traffic analysis
+* Preparing for Security+
+
+---
+
+## 📫 Contact
+
+📧 [work.sumaiyasara@gmail.com](mailto:work.sumaiyasara@gmail.com)
